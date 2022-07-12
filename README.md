@@ -9,5 +9,4 @@ Does not work well on mobile devices.
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
 2014
