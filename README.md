@@ -9,4 +9,9 @@ Does not work well on mobile devices.
 
 &nbsp;  
 &nbsp;  
+
+Formerly known as mangostream.  
+
+&nbsp;  
+&nbsp;  
 2014
